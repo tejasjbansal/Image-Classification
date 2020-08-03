@@ -1,4 +1,4 @@
-# MNIST Handwritten Digit Classifiation using Neural Network
+# MNIST Handwritten Digit Classifiation using Deep Learning with accuracy of 98%.
 
 The MNIST database is available at http://yann.lecun.com/exdb/mnist/
 
@@ -10,7 +10,6 @@ It is a good database for people who want to try learning techniques and pattern
 
 There are four files available, which contain separately train and test, and images and labels.
 
-# Usage
 
 
 ![Screenshot (559)](https://user-images.githubusercontent.com/56173595/89222567-e3456800-d5f2-11ea-9d6e-2903e0ea7fe6.png)
